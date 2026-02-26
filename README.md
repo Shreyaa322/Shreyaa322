@@ -8,10 +8,10 @@
 
 ### 👩‍💻 About Me
 
-I'm a third-year undergraduate specialising in **Robotics & Artificial Intelligence** with a **Minor in Finance** at COEP Technological University. My work sits at the intersection of data engineering, machine learning, and business intelligence — I enjoy turning messy, real-world datasets into decisions that actually matter.
+I'm a third-year undergraduate specialising in **Robotics & Artificial Intelligence** with a **Minor in Finance** at COEP Technological University. My work sits at the intersection of data engineering, machine learning, and business intelligence. I enjoy turning messy, real-world datasets into decisions that actually matter.
 
 -  Currently working on: Biped Locomotion Optimization using Reinforcement Learning
--  Vehicle Dynamics Engineer & Business Plan Lead — **Formula Student Germany 2025** (represented India)
+-  Vehicle Dynamics Engineer & Business Plan Lead : **Formula Student Germany 2025** (represented India)
 -  Actively seeking: **Data Analyst / Data Scientist / BI Analyst internships**
 -  Languages: English · French · German · Hindi · Marathi
 
