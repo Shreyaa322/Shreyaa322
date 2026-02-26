@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shreya Patil 👋</h1>
 
 <p align="center">
-  📊 Data Analytics & Machine Learning &nbsp;|&nbsp; 🤖 B.Tech Robotics & AI @ COEP &nbsp;|&nbsp; 📍 Pune, India
+   Data Analytics & Machine Learning &nbsp;|&nbsp;  B.Tech Robotics & AI @ COEP &nbsp;|&nbsp;  Pune, India
 </p>
 
 ---
@@ -10,10 +10,10 @@
 
 I'm a third-year undergraduate specialising in **Robotics & Artificial Intelligence** with a **Minor in Finance** at COEP Technological University. My work sits at the intersection of data engineering, machine learning, and business intelligence — I enjoy turning messy, real-world datasets into decisions that actually matter.
 
-- 🔭 Currently working on: Biped Locomotion Optimization using Reinforcement Learning
-- 🏎️ Vehicle Dynamics Engineer & Business Plan Lead — **Formula Student Germany 2025** (represented India)
-- 🎯 Actively seeking: **Data Analyst / Data Scientist / BI Analyst internships**
-- 🌐 Languages: English · French · German · Hindi · Marathi
+-  Currently working on: Biped Locomotion Optimization using Reinforcement Learning
+-  Vehicle Dynamics Engineer & Business Plan Lead — **Formula Student Germany 2025** (represented India)
+-  Actively seeking: **Data Analyst / Data Scientist / BI Analyst internships**
+-  Languages: English · French · German · Hindi · Marathi
 
 ---
 
@@ -43,19 +43,19 @@ I'm a third-year undergraduate specialising in **Robotics & Artificial Intellige
 
 | Project | Description | Tools |
 |---|---|---|
-| 🚗 [Driver Drowsiness Detection](#) | End-to-end data pipeline + MobileNet CNN for real-time eye-state classification | Python, OpenCV, TensorFlow |
-| 🏎️ [Formula Student Steering System](#) | Multivariate analysis & telemetry dashboards for steering geometry optimization | Python, MATLAB, Power BI |
-| 💹 [Financial & Market Analytics](#) | Investor-ready Excel models + Power BI dashboards for TAM/SAM/SOM analysis | Excel, Power BI |
-| 🤖 [Biped Locomotion Optimization](#) | RL-based (PPO) locomotion analysis with reward curve visualization | Python, PyTorch |
+|  [Driver Drowsiness Detection](#) | End-to-end data pipeline + MobileNet CNN for real-time eye-state classification | Python, OpenCV, TensorFlow |
+|  [Formula Student Steering System](#) | Multivariate analysis & telemetry dashboards for steering geometry optimization | Python, MATLAB, Power BI |
+|  [Financial & Market Analytics](#) | Investor-ready Excel models + Power BI dashboards for TAM/SAM/SOM analysis | Excel, Power BI |
+|  [Biped Locomotion Optimization](#) | RL-based (PPO) locomotion analysis with reward curve visualization | Python, PyTorch |
 
 ---
 
 ### 📜 Certifications
 
-- 🏅 Google Advanced Data Analytics Professional Certificate
-- 📊 Harnessing the Power of Data with Microsoft Power BI
-- 📈 Data for Analysis with Microsoft Excel
-- 🔧 Core MATLAB Skills
+-  Google Advanced Data Analytics Professional Certificate
+-  Harnessing the Power of Data with Microsoft Power BI
+-  Data for Analysis with Microsoft Excel
+-  Core MATLAB Skills
 
 ---
 
