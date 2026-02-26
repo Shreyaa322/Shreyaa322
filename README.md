@@ -39,14 +39,14 @@ I'm a third-year undergraduate specialising in **Robotics & Artificial Intellige
 
 ---
 
-### 🚀 Featured Projects
+### 📂 Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
-|  [Driver Drowsiness Detection](#) | End-to-end data pipeline + MobileNet CNN for real-time eye-state classification | Python, OpenCV, TensorFlow |
-|  [Formula Student Steering System](#) | Multivariate analysis & telemetry dashboards for steering geometry optimization | Python, MATLAB, Power BI |
-|  [Financial & Market Analytics](#) | Investor-ready Excel models + Power BI dashboards for TAM/SAM/SOM analysis | Excel, Power BI |
-|  [Biped Locomotion Optimization](#) | RL-based (PPO) locomotion analysis with reward curve visualization | Python, PyTorch |
+| [Driver Drowsiness Detection](https://github.com/Shreyaa322/Driver-Drowsiness-Detection) | End-to-end data pipeline + MobileNet CNN for real-time eye-state classification | Python, OpenCV, TensorFlow |
+| [Formula Student Steering System](https://github.com/Shreyaa322/Formula-Student-Steering-System) | Multivariate analysis & telemetry dashboards for steering geometry optimization | Python, MATLAB, Power BI |
+| [Optimizers in Deep Learning](https://github.com/Shreyaa322/Optimizers-in-Deep-Learning) | Grid search comparison of 5 DL optimizers on Mushroom binary classification | Python, TensorFlow |
+| [A* Search — 15-Puzzle Solver](https://github.com/Shreyaa322/A-star-Search) | Optimal puzzle solver using A* with misplaced tiles heuristic | Python, NumPy |
 
 ---
 
